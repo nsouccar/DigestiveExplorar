@@ -1,0 +1,6 @@
+framework module Pods_DigestiveExplorer {
+  umbrella header "Pods-DigestiveExplorer-umbrella.h"
+
+  export *
+  module * { export * }
+}

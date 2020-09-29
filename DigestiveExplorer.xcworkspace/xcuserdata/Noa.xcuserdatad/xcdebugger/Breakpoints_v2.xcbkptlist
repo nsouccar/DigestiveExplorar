@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2266376C-1D01-4615-B7FE-8442B01F73A4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigestiveExplorer/CustomAlertController.swift"
+            timestampString = "556218647.957793"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB - ceb6c0b98696bf31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__deallocating_deinit"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "555873578.8125269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB - 14ac44b42fb6797c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DigestiveExplorer.CustomAlertController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "555873578.822998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB - c4f0b6ca2210ef37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DigestiveExplorer.CustomAlertController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "555873578.82614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB - 98a8ed0788ffc6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.CustomAlertController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "555873578.828576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "6744E76F-4125-45EC-8219-B32F4839D6BB - ae35e688216c2dbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.CustomAlertController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "555873578.831254"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "431C787F-279E-4D7D-BA7B-96EBC816A59B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigestiveExplorer/CustomAlertController.swift"
+            timestampString = "556218647.95928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigestiveExplorer/CustomAlertController.swift"
+            timestampString = "556218647.960008"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03 - ceb6c0b98696bf31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__deallocating_deinit"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "556216993.823431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03 - 14ac44b42fb6797c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DigestiveExplorer.CustomAlertController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "556216993.829234"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03 - c4f0b6ca2210ef37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; DigestiveExplorer.CustomAlertController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "556216993.834442"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03 - 98a8ed0788ffc6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.CustomAlertController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "556216993.8405271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "87E44887-F6DF-4720-AC68-E9EC7810CC03 - ae35e688216c2dbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.CustomAlertController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.CustomAlertController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/CustomAlertController.swift"
+                  timestampString = "556216993.846198"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigestiveExplorer/View Controllers/ViewController.swift"
+            timestampString = "611548432.9963239"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - 9778754fa1263758"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.sceneView.getter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.8294359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - c670fd9ff1944ba4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.sceneView.setter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.831454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - 28a4b51da0af5457"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.833333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - 71d4b5e759559df0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.835197"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - d64b6b6ad1210b8f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DigestiveExplorer.ViewController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.837356"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "C5C7DA7A-FED4-4FBF-BB49-FB7E8D127C4A - 134981e78205e2b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.ViewController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611548622.83936"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DigestiveExplorer/View Controllers/ViewController.swift"
+            timestampString = "611549011.44453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB - fe08e5a431ef21e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DigestiveExplorer.ViewController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611549011.460575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB - d64b6b6ad1210b8f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DigestiveExplorer.ViewController"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611549011.463686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB - 7749ff1ede074fbf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.ViewController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611549011.468382"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB - 134981e78205e2b0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DigestiveExplorer.ViewController&gt;"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611549011.471912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "361C4F52-AD46-4B17-AA39-5DED073B20CB - b6d502393ece76e6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DigestiveExplorer.ViewController.__deallocating_deinit"
+                  moduleName = "DigestiveExplorer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Noa/Desktop/DigestiveExplorer/DigestiveExplorer/View%20Controllers/ViewController.swift"
+                  timestampString = "611549011.475692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

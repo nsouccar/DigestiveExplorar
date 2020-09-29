@@ -39,6 +39,14 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DK Honeyguide Caps</string>
+		<string>orangejuice 2.0.ttf</string>
+		<string>AA.ttf</string>
+		<string>Cunia.ttf</string>
+		<string>Liquid.ttf</string>
+	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
